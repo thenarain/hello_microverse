@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- git clone https://github.com/thenarain/helloWorld.git
+- git clone https://github.com/thenarain/hello_microverse.git
 
 ## Authors
 
